@@ -30,7 +30,20 @@
 
 ## 🟢 Nível 1 — Respostas
 
-(Respostas dos exercícios do N1 aqui)
+Para cada serviço, identifique se é IaaS, PaaS, SaaS ou FaaS. Justifique em uma frase.
+
+| Serviço | Modelo (IaaS/PaaS/SaaS/FaaS) | Justificativa |
+|---------|------------------------------|---------------|
+| Gmail | SaaS | Usuário só utiliza o Serviços |
+| Azure Virtual Machines | IaaS | Cliente gerencia SO, Middleware, Runtime, Data, Applications |
+| Azure App Service (hospedar uma API) | PaaS | Cliente gerencia Data, Applications |
+| AWS Lambda | FaaS | Cliente gerencia funções |
+| Azure SQL Database | PaaS | Cliente gerencia SO, Middleware, Runtime, Data, Applications |
+| Salesforce CRM | SaaS | Usuário só utiliza o Serviços |
+| Google Kubernetes Engine (GKE) | PaaS/IaaS | Cliente gerencia pods, Data, Applications |
+| Azure Blob Storage | PaaS | Cliente gerencia Data, Applications |
+| Azure OpenAI Service | | |
+
 
 ---
 
