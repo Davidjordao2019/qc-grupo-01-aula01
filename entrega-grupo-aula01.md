@@ -42,7 +42,7 @@ Para cada serviço, identifique se é IaaS, PaaS, SaaS ou FaaS. Justifique em um
 | Salesforce CRM | SaaS | Usuário só utiliza o Serviços |
 | Google Kubernetes Engine (GKE) | PaaS/IaaS | Cliente gerencia pods, Data, Applications |
 | Azure Blob Storage | PaaS | Cliente gerencia Data, Applications |
-| Azure OpenAI Service | | |
+| Azure OpenAI Service | SaaS | Usuário só utiliza o Serviços  |
 
 
 ---
