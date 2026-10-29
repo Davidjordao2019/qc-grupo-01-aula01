@@ -49,7 +49,33 @@ Para cada serviço, identifique se é IaaS, PaaS, SaaS ou FaaS. Justifique em um
 
 ## 🟡 Nível 2 — Respostas + Implementação
 
-(Respostas + diagramas + código quando aplicável)
+### Exercício 2.1 — Arquitetura de alto nível: Quantum Commerce
+
+**Contexto:** A Quantum Commerce é um gigante do e-commerce com 12 países, 5M de SKUs, e quer transformar a experiência de compra com IA conversacional.
+
+**Sua tarefa (em grupo):** Proponha uma arquitetura de alto nível em cloud para a QC. Identifique:
+
+1. **Camadas da arquitetura** — quantas e o que cada uma faz (ex: frontend, API, dados, AI/ML, observabilidade)
+2. **Provedor principal** — qual escolheria (Azure, AWS, GCP) e por quê
+3. **Serviços por categoria** — preencha a tabela:
+
+| Categoria | Serviço Azure | Alternativa AWS | Alternativa GCP |
+|-----------|--------------|-----------------|-----------------|
+| Compute (backend) | | | |
+| Storage (catálogo, imagens) | | | |
+| Banco relacional | | | |
+| Banco NoSQL | | | |
+| Vector Database | | | |
+| Serviços de IA cognitivos | | | |
+| CDN | | | |
+| Mensageria/Filas | | | |
+| Observabilidade (logs/métricas) | | | |
+
+4. **Diagrama** — feito no Excalidraw (excalidraw.com), draw.io (diagrams.net) ou à mão fotografado. **Tudo sem instalação.**
+
+> **Entrega:** O grupo commita o esboço (`respostas-aula01.md` + imagem do diagrama) no fork até 1 dia antes da Aula 2. O professor dá feedback escrito durante a semana. O diagrama evolui a cada aula até a entrega final na Aula 6.
+
+---
 
 ---
 
