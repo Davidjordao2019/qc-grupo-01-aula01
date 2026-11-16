@@ -15,6 +15,6 @@ qc-grupo-01-aula01/
     ├── gcp_standby.tf
     └── outputs.tf               
 ├── Gemini_Generated_Image_bmilxbmilxbmilxb.jpeg
-└── README.md               
+├── README.md               
 ├── entrega-grupo-aula01.md    
       
