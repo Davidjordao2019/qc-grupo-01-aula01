@@ -8,7 +8,7 @@
 
 | # | Nome completo | GitHub | E-mail FIAP |
 |---|---------------|--------|-------------|
-| 1 | David, Vinicius, Jefferson, Laisa | https://github.com/Davidjordao2019/qc-grupo-01-aula01 | rm379349@fiap.com.br |
+| 1 | David, Vinicius, Jefferson, Laisa | [https://github.com/Davidjordao2019/qc-grupo-01-aula01](https://github.com/Davidjordao2019/qc-grupo-01-aula01/blob/main/entrega-grupo-aula01.md)  | rm379349@fiap.com.br |
 | 2 | David, Vinicius, Jefferson, Laisa| | |
 | 3 | David, Vinicius, Jefferson, Laisa| | |
 | 4 | David, Vinicius, Jefferson, Laisa| | |
