@@ -104,6 +104,7 @@ Para cada serviço, identifique se é IaaS, PaaS, SaaS ou FaaS. Justifique em um
 # Resposta 2.2
 AWS e Google. AWS pela maturidade e amplitude de serviços, Google pela inovação em IA e ferramentas de código aberto.
 
+# Resposta 2.3
 
 3. **Serviços por categoria** — preencha a tabela:
 
